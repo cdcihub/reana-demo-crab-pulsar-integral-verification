@@ -52,4 +52,4 @@ outputs:
   type: string
 requirements:
   DockerRequirement:
-    dockerPull: admin.reproducible.online/cw-crab:v7-root
+    dockerPull: docker.io/cdci/crab-integral-verification
